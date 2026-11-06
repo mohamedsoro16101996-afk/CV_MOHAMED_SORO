@@ -1,0 +1,28 @@
+PORTFOLIO WEB — SORO MOHAMED
+
+TECHNOLOGIES
+- HTML5 : structure des pages
+- Bootstrap 5.3.3 : grille responsive et composants/utilitaires
+- CSS3 (style.css) : identité visuelle et personnalisation
+- JavaScript : menu mobile et année automatique
+
+Remarque : Bootstrap est chargé depuis jsDelivr ; une connexion Internet est nécessaire pour charger son framework.
+
+Fichiers :
+- index.html : page principale du site
+- style.css : mise en forme responsive
+- script.js : menu mobile et année automatique
+- assets/soro-mohamed.jpg : portrait extrait du CV fourni
+- CV_SORO_Mohamed.pdf : CV téléchargeable depuis le site
+
+APERÇU LOCAL
+Double-cliquez sur index.html pour ouvrir le site dans un navigateur.
+
+PUBLICATION GRATUITE AVEC GITHUB PAGES
+1. Créez un dépôt GitHub public (ex. portfolio-soro-mohamed).
+2. Décompressez l'archive et envoyez tous les fichiers et le dossier assets à la racine du dépôt.
+3. Dans Settings > Pages, choisissez Deploy from a branch.
+4. Sélectionnez la branche main et le dossier /(root), puis enregistrez.
+5. GitHub publiera le site à l'adresse indiquée dans Settings > Pages.
+
+Avant publication, vérifiez les coordonnées et les informations professionnelles affichées.
